@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1637529354 source:c:\users\adham (domy)\desktop\quizgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1637347158 source:c:\users\adham (domy)\desktop\quizgame\icon.rc
+
+1637347158 source:c:\users\adham (domy)\desktop\nu\second term\csci112\quizgame\icon.rc
+
+1641800616 source:c:\users\adham (domy)\desktop\nu\second term\csci112\quizgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
